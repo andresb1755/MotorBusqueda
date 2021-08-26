@@ -1,0 +1,56 @@
+CASOS EXITOSOS DE BUSQUEDA:
+ BUSQUEDA 01: 
+	'Ingeniería en electronica con enfasís en automatización'
+ RESULTADOS:
+0  	   juan camilo herrera pineda   8355460  0.283686
+1                vesna srdanovic     259063  0.261585
+2          cristina lópez ramírez  43986266  0.237426
+3   julián alberto patiño murillo   8102363  0.217123
+4    arley fernando villa salazar   8125602  0.201739
+5  yudy andrea quintero tangarife  39192387  0.194820
+6           lorena cardona rendón  43876324  0.169269
+7       difariney  gonzález gomez  21492831  0.000000
+8        marco tulio mesa cardona  15506132  0.000000
+9        omar antonio yarce marin  15517477  0.000000
+
+ BUSQUEDA 02:
+	'Profesional del lenguaje, ciencas sociales, lengua castellana'
+ RESULTADOS:
+ 0                     judith maya vélez  43499193  0.454076
+1          maria patricia lopera  calle  43038346  0.120392
+2               clara zuluaga jaramillo  25988708  0.117810
+3                         gary vernier     414211  0.108863
+4     maría del rosario álvarez de moya  24343893  0.106272
+5                blas josé navarro meza   8472825  0.102305
+6  elizabeth cristina paniagua paniagua  43200941  0.093993
+7            lina maria arroyave sierra  43279429  0.074590
+8         mario javier naranjo otalvaro   8406154  0.062514
+9         mónica piedad deossa quintero  43971096  0.052629
+
+ BUSQUEDA 03:
+	'Profesinal del diseño gráfico y herramientas digitales avanzadas'
+ RESULTADOS:
+0           cristina montoya ramirez  32296234  0.805857
+1              giovana cadavid gomez  39177759  0.383031
+2         carolina chavarriaga gomez  43267957  0.311741
+3                 rocío torres novoa  53041423  0.280379
+4          sebastián castaño zuluaga   8033780  0.190653
+5        john fredy bermudez alvarez   3507997  0.133032
+6           gabriel josé flórez ríos  70126026  0.115566
+7  maría del rosario álvarez de moya  24343893  0.101578
+8    liliana maria arboleda  giraldo  43738535  0.082195
+9           marco tulio mesa cardona  15506132  0.000000
+
+ BUSQUEDA 04:
+	'Profesional del area de la metalurgia y materiales'
+ RESULTADOS:
+0    lisys margarita león sevilla  35113264  0.433458
+1      césar augusto isaza merino   8175231  0.350638
+2  alfonso luis agudelo vegliante  70548652  0.296734
+3     sonia maria peláez  becerra  43730750  0.236147
+4            erica mejía restrepo  43251970  0.222971
+5    juan sebastián  rudas florez   9698377  0.175824
+6     carlos eleazar maya montoya   8391619  0.124210
+7         sandra ruth ochoa gómez  21479718  0.000000
+8        marco tulio mesa cardona  15506132  0.000000
+9        omar antonio yarce marin  15517477  0.000000
